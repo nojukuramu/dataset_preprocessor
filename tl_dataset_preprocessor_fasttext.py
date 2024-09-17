@@ -123,7 +123,7 @@ if __name__ == "__main__":
     
     # Step 4: If the token count is around 500,000, save the corpus
     with open("submission_preproccesed.txt", 'w', encoding='utf-8') as f:
-        f.write('/n'.join(all_tokens[:500_000]))
+        f.write(''.join(all_tokens[:500_000]))
 
 
     print(f"Corpus has only {token_count} tokens, consider adding more Tagalog text.")
