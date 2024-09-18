@@ -1,5 +1,5 @@
 ## DATASET PREPROCESSOR
-Python Script for preprocessing Tagalog Datasets.
+Python Script for preprocessing Tagalog Datasets. (modifiable for all language)
 
 # 2 Versions
 1. Lang Library version - Used for smaller datasets (no longer be updated)
